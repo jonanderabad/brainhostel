@@ -61,7 +61,7 @@ def main():
     print("\nCreando agente...")
     agent = client.beta.agents.create(
         name="brainhostel",
-        model="claude-sonnet-4-6",
+        model="claude-haiku-4-5-20251001",
         system=system_prompt,
         tools=[],
     )
