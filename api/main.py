@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 
 # ── Config ──────────────────────────────────────────────────────────────────
 
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+ANTHROPIC_API_KEY = "".join(os.environ.get("ANTHROPIC_API_KEY", "").split())
 AGENT_ID = os.environ.get("AGENT_ID", "")
 ENV_ID = os.environ.get("ENV_ID", "")
 
