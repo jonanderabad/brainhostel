@@ -1,70 +1,52 @@
-# Jornada Laboral
+# Jornada Laboral, Horarios, Horas Extra y Trabajo Nocturno
 
-El convenio fija la jornada anual de trabajo efectivo según el tipo de turno, con reducciones progresivas de 2024 a 2027 y posibles descuentos adicionales no consolidables si el absentismo por enfermedad en Castings es inferior al 5,5 % el año anterior. La bolsa horaria de 100 horas permite gestionar la flexibilidad productiva con un periodo de recuperación ampliado de hasta 2 años y un máximo de 80 horas recuperadas al año.
+La jornada máxima anual en el sector hostelero de Bizkaia es de **1.746 horas** durante toda la vigencia del convenio, con un máximo de 9 horas diarias; el convenio prohíbe las horas extraordinarias como práctica habitual y establece un régimen específico para el trabajo nocturno con suplemento incluido en las tablas salariales.
 
----
+## Jornada Ordinaria (Art. 8)
+- **Máximo anual:** 1.746 horas (mismo límite para toda la vigencia 2021-2027)
+- **Máximo diario:** 9 horas ordinarias
+- **Horario:** debe ser cierto y acordado (negociado con representantes de los trabajadores o con la empresa)
+- **Modificación de horario:** requiere **preaviso mínimo de 24 horas**
+- **Trabajo discontinuo pluridía:** se permiten periodos de descanso según RD 1561/1995 (Art. 22) sin afectar al descanso semanal
 
-## Horas anuales por tipo de turno (Art. 19)
+## Registro Horario (Art. 9)
+Obligación diferenciada según tamaño de empresa:
+- **Empresas > 5 trabajadores equivalentes a tiempo completo (media anual):** implantación de sistema de registro digital en un plazo de 1 año desde la publicación del convenio
+- **Empresas ≤ 5 trabajadores:** implantación antes de la finalización del convenio (31/12/2027)
 
-| Tipo de turno | 2024 | 2025 | 2026 | 2027 |
-|---------------|------|------|------|------|
-| 2.º y 3.er turno | 1.664 h | 1.660 h | 1.660 h | 1.656 h |
-| Jornada partida | 1.684 h | 1.680 h | 1.680 h | 1.676 h |
-| 4.º turno | 1.636,60 h | 1.628,60 h | 1.620,60 h | 1.620,60 h |
-| 5.º turno | 1.616 h | 1.612 h | 1.612 h | 1.608 h |
+## Horas Extraordinarias (Art. 11)
+Las horas extra están **prohibidas como práctica habitual**. Solo se permiten por causas justificadas y documentadas:
+- Fuerza mayor
+- Puntas de producción
+- Ausencias imprevistas de compañeros
+- Cambios de turno
+- Necesidades de mantenimiento
 
-**Reducción adicional no consolidable de 4 horas:**
-- En 2026, si el absentismo por enfermedad de Castings en 2025 es < 5,5 %.
-- En 2027, si el absentismo por enfermedad de Castings en 2026 es < 5,5 %.
+**Compensación económica:**
+- Hora extra en día ordinario: **100%** del valor de la hora ordinaria
+- Hora extra en día festivo (desplazamiento del descanso semanal): **150%**
 
----
+Ver tarifas horarias en [[salarios-tablas]].
 
-## Bolsa horaria y flexibilidad (Art. 20)
+## Trabajo Nocturno (Art. 22)
+El trabajo nocturno es habitual en el sector hostelero:
+- El **suplemento nocturno** está incluido en la columna "Complementos" del Anexo I (calculado sobre 44 horas mensuales nocturnas)
+- Horas nocturnas que **superen las 44 al mes**: compensadas según módulos acordados
+- La columna de complementos incluye tanto el suplemento pactado como el plus de convenio anterior
 
-- **Bolsa horaria:** 100 horas, conforme al Convenio del Metal de Bizkaia.
-- **Periodo de recuperación:** hasta **2 años** desde el momento en que se usa la bolsa.
-- **Límite de recuperación:** máximo **80 horas al año**.
-- **Cambio de turno:** entre el aviso y el inicio del nuevo turno debe mediar al menos **1 semana natural**.
-- **Descanso bocadillo:** para personal en turno continuo; se disfruta preferentemente en las horas centrales del turno y **no computa como trabajo efectivo**.
-- **Calendario laboral:** pactado entre empresa y representantes; las discrepancias las resuelve la Dirección General.
+Importes del suplemento nocturno por hora (2025):
+| Clasificación | Suplemento/hora |
+|---|---|
+| Primera | 1,25€ |
+| Segunda | 1,17€ |
+| Tercera a Especial | 1,11€ |
 
----
+## Distribución del Tiempo de Trabajo
+- **Pluriempleo:** Las partes se comprometen a eliminarlo; el pluriempleo irregular se reporta a la Comisión Paritaria
+- **ERTEs:** Control estricto; los calendarios de reducción deben especificarse (porcentajes mensuales, semanales o anuales); la Comisión supervisa irregularidades
 
-## Trabajo voluntario en días no laborables (Art. 14)
-
-Se activa cuando la producción requiere trabajo en sábados, domingos, festivos o puentes. La jornada es de 8 horas continuas y es voluntaria.
-
-**Compensación (a elegir por el trabajador):**
-
-| Opción | Retribución | Descanso compensatorio |
-|--------|------------|----------------------|
-| A | 158,81 €/día (2024) | 8 horas |
-| B | — | 16 horas |
-
-- El descanso debe disfrutarse dentro de los **12 meses siguientes**.
-- La fecha de disfrute se pacta con el responsable de sección.
-- Si el trabajo es en horario nocturno, se añade el [[complementos-salariales#plus-nocturno|plus de nocturnidad]].
-- Para personal **excluido de tablas** que trabaje en días no laborables de forma programada: 170,72 €/día (7 h) + 1 día de descanso (2024).
-- Si no hay voluntarios para sábados tarde, la Comisión Paritaria se reúne en 24 horas para buscar solución.
-
----
-
-## Vacaciones (Art. 21)
-
-Ver [[vacaciones-permisos]] para el detalle completo.
-
-- Preferentemente en junio, julio, agosto y septiembre.
-- Pueden disfrutarse de forma **discontinua**.
-- La empresa debe comunicar las fechas con **al menos 2 meses de antelación** (salvo excepciones productivas).
-
----
-
-## Temas relacionados
-
-- [[complementos-salariales]] — Plus turno, plus nocturno, retén, plus festivo 5.º turno
-- [[absentismo]] — La reducción de horas en 2026 y 2027 depende del absentismo
-- [[vacaciones-permisos]] — Vacaciones y licencias
-
----
-
-*Fuente: Art. 14, 19, 20 y 21 del Convenio Colectivo PCB 2024-2027 (BOB 26/02/2025)*
+## Relación con otros artículos
+- [[salarios-tablas]] — Tarifas horarias y suplementos
+- [[complementos-salariales]] — Plus nocturno y servicios extraordinarios
+- [[vacaciones-permisos]] — Vacaciones y festivos trabajados
+- [[contratos-promocion]] — Tipos de contrato y distribución del trabajo

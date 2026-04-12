@@ -1,88 +1,76 @@
-# Complementos Salariales y Pluses
+# Complementos Salariales: Antigüedad, Plus Formación, Rider, Nocturnidad y Otros
 
-Además del salario base recogido en las tablas por niveles, el convenio establece una serie de complementos y pluses que retribuyen condiciones específicas de trabajo: riesgo o penalidad del puesto, antigüedad, rendimiento colectivo, turnicidad, nocturnidad, disponibilidad, teletrabajo y trabajo en días no laborables.
+El convenio regula un conjunto de complementos económicos que se suman al salario base garantizado: antigüedad por tramos, plus de formación para empresas no acreditadas, suplemento para riders, compensación por desgaste de herramientas, dietas, servicios extraordinarios y transporte, todos actualizados al 1 de marzo de 2025.
 
----
+## Antigüedad (Art. 19)
 
-## Complemento de puesto — Prevención (Art. 10)
+El plus de antigüedad se calcula como porcentaje sobre la **Base Salarial de las Tablas** y se acumula por tramos:
 
-Percibido por el personal que trabaja de forma continuada en taller. Absorbe los posibles pluses de toxicidad, penosidad o peligrosidad.
+| Tramos de antigüedad | % por tramo | % acumulado |
+|---|---|---|
+| 3 años | 3% | 3% |
+| 6 años | 5% | 8% |
+| 9 años | 8% | 16% |
+| 14 años | 10% | 26% |
+| 19 años | 12% | 38% |
+| 24 años | 7% | **45% máximo** |
 
-| Circunstancias concurrentes | Importe día | Importe hora |
-|---------------------------|-------------|-------------|
-| 1 (estándar) | 7,80 €/día | 1,00 €/h |
-| 2 | 9,26 €/día | 1,21 €/h |
-| 3 | 10,81 €/día | 1,38 €/h |
+**Trabajadores fijos discontinuos:** La antigüedad se calcula sobre la **duración total de la relación laboral** (no solo los días efectivamente trabajados), excepto por requisitos funcionales. Se computa un año completo (365 días) si el trabajador trabaja más de **9 meses continuados** o **270 días en el mismo año**. Esta regla se aplica con retroactividad desde el 1 de julio de 2021.
 
-**Para 4.º y 5.º turno** (importes mensuales 12 meses, 2024):
-- 4.º Turno: 255,48 €/mes
-- 5.º Turno: 615,86 €/mes
+## Plus de Formación (Art. 20)
+Las empresas deben abonar **30,13€ por trabajador en cada una de las 15 nóminas** del año (12 ordinarias + 3 extraordinarias), **salvo** que la empresa:
+1. Esté acreditada como miembro de una organización empresarial representativa (con ≥15% de trabajadores del sector) que promueva activamente la formación, **o**
+2. Desarrolle planes individuales de formación continua, **o**
+3. Participe en programas de formación grupal liderados por sindicatos
 
----
+La acreditación se visa anualmente ante la Comisión Paritaria y se renueva automáticamente si se mantienen los requisitos. Los trabajadores pueden verificar la validez de la acreditación de su empresa ante la Comisión.
 
-## Plus de antigüedad (Art. 11)
+## Plus Rider (Art. 21)
+Los trabajadores clasificados como **Repartidor/a (Rider)** perciben un suplemento de **60€/mes**, pagado proporcionalmente a las horas trabajadas.
 
-Importe por cada quinquenio (5 años de antigüedad), revisado anualmente. Ver desglose completo en [[salarios-tablas]].
+## Nocturnidad (Art. 22)
+El suplemento nocturno (calculado sobre 44 horas nocturnas mensuales) está incluido en la columna "Complementos" del Anexo I. Ver importes por hora en [[salarios-tablas]] y detalles de cómputo en [[jornada-laboral]].
 
-| Categoría | 2024 (€/quinquenio/mes) |
-|-----------|------------------------|
-| Titulado Superior | 64,15 |
-| Titulado Medio, Técnico, Tec. Mantenimiento, Jefe de Sección, Oficial Administrativo | 54,97 |
+## Servicios Extraordinarios (Art. 25)
+Para servicios con personal externo o trabajadores propios realizando funciones fuera de su clasificación. La empresa debe **ofrecer primero estos servicios a trabajadores del sector y parados** (con cotización a la Seguridad Social).
 
----
+Tarifas mínimas 2025:
 
-## Incentivo por objetivos — SIPO (Art. 9)
+| Concepto | Importe |
+|---|---|
+| Montaje como camarero de banquetes | 71,77€ |
+| Montaje como ayudante de banquetes | 11,78€ |
+| Trabajo fuera del núcleo urbano | 42,25€ |
+| Servicio fino en montaje extra | 6,16€ |
+| Chef, servicio único | 82,81€ |
+| Ayudante de cocina (jornada completa + comidas) | 118,21€ |
+| Chefs desplazados | 70,80€ |
+| Chefs pluridía | 177,43€ (+ comidas y desplazamiento) |
+| Chefs pluridía premium | 236,87€ |
 
-Retribución variable para personal en tablas de convenio y personal administrativo sin retribución variable preexistente.
+## Manutención / Beneficios en especie (Art. 26)
+Los trabajadores incluidos en el Anexo III (de Reglamentación Laboral anterior) tienen derecho a **manutención digna** durante los días laborables. El Comité de empresa, los representantes de los trabajadores y la empresa determinan el contenido de las comidas conjuntamente.
 
-- **40 %** ligado a objetivos globales de compañía.
-- **60 %** ligado a objetivos de la unidad de negocio de Castings.
-- Al **100 % de cumplimiento**: 3,4 % del salario del **Nivel 7** de las tablas.
-- Los objetivos de compañía pueden alcanzar hasta el **120 %**; los de convenio se limitan al 100 %.
-- Si algún objetivo de compañía llega a 0 %, los objetivos de Castings se reducen a la **mitad**.
-- Se garantiza un grado de cumplimiento mínimo del **85 %** del alcanzado por Castings en sus objetivos.
-- Se comunican en **marzo** de cada año y se pagan en **marzo del año siguiente**.
+**Alternativa en metálico:** Si la empresa no puede proporcionar la manutención, paga **58,43€ brutos/mes** (2025). Esta misma cantidad se aplica si el trabajador tiene dieta médica que la empresa no puede atender.
 
----
+## Desgaste de Herramientas y Útiles de Trabajo (Art. 29)
+La empresa debe proporcionar las herramientas necesarias para el trabajo. Si no las proporciona, abona **45,46€/mes** (2025) en concepto de compensación por desgaste.
 
-## Pluses del Anexo I (valores 2024)
+## Transporte y Desplazamientos (Art. 30)
+La empresa está obligada a proporcionar o pagar el transporte en dos supuestos:
+1. **Servicios extraordinarios o urgentes** fuera del horario habitual sin transporte público disponible: la empresa lleva o paga el desplazamiento hasta el domicilio del trabajador
+2. **Centros de trabajo a 2+ km del transporte público más cercano:** la empresa proporciona o paga el transporte hasta la parada más cercana
 
-| Concepto | Valor 2024 |
-|----------|-----------|
-| Plus Asistencia Trimestral | 85,51 €/trimestre |
-| Plus Asistencia Mensual | 59,85 €/mes (12 meses) |
-| Retén | 52,53 €/día |
-| Plus festivo 5.º Turno | 114,28 €/día |
-| Plus Turno | 1,10 €/hora |
-| Plus Nocturno | 4,27 €/hora |
-| Plus Responsable Relevo | 134,38 €/mes (12 meses) |
-| Trabajo voluntario día no lab. (8 h) | 158,81 €/día + 8 h descanso |
-| Plus jornada voluntaria excluidos (7 h) | 170,72 €/día + 8 h descanso |
-| Trabajo en remoto (teletrabajo) | 2,36 €/día |
-| Cesta de Navidad (2024) | 73,29 € → **100 € desde 2025** |
+## Ropa de Trabajo (Art. 24)
+La empresa tiene la obligación de proporcionar uniformes y ropa no habitual que se utilice de forma continuada, así como su reposición cuando presenten deterioro evidente.
 
----
+**Dotaciones mínimas por categoría:**
+- **Personal de sala:** traje de chaqueta, camisas blancas, corbatas/pajaritas, zapatos, chaquetillas
+- **Resto de personal:** pantalones, camisas, corbatas/pajaritas, chaquetillas, gorros, zapatos
+- **Mantenimiento:** uniforme asignado o ropa necesaria
+- **Personal femenino:** uniforme completo
 
-## Pluses de comida y transporte (Anexo I)
-
-| Concepto | 2024 | 2025 | 2026 | 2027 |
-|----------|------|------|------|------|
-| Comida — Turnos rotativos | 3,00 € | 3,50 € | 4,00 € | 4,50 € |
-| Comida — Jornada partida | 4,00 € | 4,50 € | 5,00 € | 6,00 € |
-| Transporte 0-20 km | 4,00 € | 5,00 € | 6,00 € | 8,00 € |
-| Transporte >20 km | 4,00 € | 6,00 € | 8,00 € | 10,00 € |
-
-Los pluses de comida se perciben por **día laborable trabajado** (Art. 12 y 13).
-
----
-
-## Temas relacionados
-
-- [[salarios-tablas]] — Salario base por niveles sobre el que se calculan algunos pluses
-- [[aumentos-salariales]] — Todos los pluses se actualizan con el IPC+%
-- [[jornada-laboral]] — Trabajo voluntario en días no laborables (158,81 €/día)
-- [[absentismo]] — Plus de asistencia trimestral y mensual vinculados a absentismo
-
----
-
-*Fuente: Art. 9, 10, 11, 12, 13, 14, 32 y Anexo I del Convenio Colectivo PCB 2024-2027 (BOB 26/02/2025)*
+## Relación con otros artículos
+- [[salarios-tablas]] — Base salarial sobre la que se calcula la antigüedad
+- [[aumentos-salariales]] — Actualización anual de complementos
+- [[jornada-laboral]] — Horas nocturnas y cómputo del suplemento

@@ -1,67 +1,65 @@
-# Salarios y Tablas Salariales
+# Tablas Salariales y Clasificación Profesional
 
-Las tablas salariales del convenio establecen el salario bruto anual y mensual para siete niveles profesionales (niveles 1 a 7), con el importe del plus de antigüedad por quinquenio para cada categoría. Las cifras del Anexo I corresponden al año 2024 y se actualizan cada año con los incrementos pactados en [[aumentos-salariales]].
+El convenio establece un **Salario Garantizado** por clasificaciones profesionales estructurado en Base + Complementos, con 6 clasificaciones ordinarias más una categoría Especial para nuevas incorporaciones sin experiencia, vigentes desde el 1 de marzo de 2025 según el Anexo I.
 
----
+## Tabla Salarial 2025 (Anexo I)
 
-## Tablas salariales 2024 — Niveles 1 a 7 (Anexo I)
+| Clasificación | Base mensual | Complementos | **Total mensual** | Mínimo garantía |
+|---|---|---|---|---|
+| **Primera** | 725,06€ | 1.132,25€ | **1.857,31€** | 249,25€ |
+| **Segunda** | 683,47€ | 1.080,35€ | **1.763,82€** | 236,70€ |
+| **Tercera** | 647,57€ | 991,44€ | **1.639,01€** | 219,95€ |
+| **Cuarta** | 647,57€ | 900,36€ | **1.547,93€** | 207,73€ |
+| **Quinta** | 647,57€ | 794,31€ | **1.441,88€** | 193,50€ |
+| **Especial** | 647,57€ | 510,72€ | **1.158,29€** | 155,44€ |
 
-| Nivel | Bruto Anual 2024 (€) | Bruto Mensual 2024 (€) | Antigüedad/mes 2024 (€) |
-|-------|--------------------|----------------------|------------------------|
-| 7 | 41.002,88 | 2.928,78 | 54,97 |
-| 6 | 38.813,90 | 2.772,42 | 54,97 |
-| 5 | 36.624,91 | 2.616,06 | 54,97 |
-| 4 | 33.772,28 | 2.412,31 | 54,97 |
-| 3 | 30.919,66 | 2.208,55 | 54,97 |
-| 2 | 29.509,58 | 2.107,83 | 54,97 |
-| 1 | 28.099,49 | 2.007,11 | 54,97 |
+- El salario se paga en **12 pagas ordinarias + 3 pagas extraordinarias** (ver [[aumentos-salariales]])
+- La columna "Mínimo garantía" es el incremento mínimo respecto a los salarios del 31/12/2020
 
-> El salario base se cobra en 14 pagas (12 mensualidades + 2 extras) o según las condiciones personales de cada trabajador.
+## Tarifas Horarias 2025
 
----
+| Clasificación | Hora ordinaria | Hora festiva (150%) | Suplemento nocturno/h |
+|---|---|---|---|
+| Primera | 31,91€ | 39,89€ | 1,25€ |
+| Segunda | 30,31€ | 37,88€ | 1,17€ |
+| Tercera | 28,16€ | 35,20€ | 1,11€ |
+| Cuarta | 26,60€ | 33,25€ | 1,11€ |
+| Quinta | 24,77€ | 30,97€ | 1,11€ |
+| Especial | 19,90€ | 24,88€ | 1,11€ |
 
-## Antigüedad mensual 2024 por categoría (Anexo I)
+Plus de formación (todas las clasificaciones): **30,13€**
 
-| Categoría | Antigüedad mensual 2024 (€/quinquenio) |
-|-----------|-----------------------------------------|
-| Titulado Superior | 64,15 |
-| Titulado Medio | 54,97 |
-| Técnico | 54,97 |
-| Téc. Mantenimiento | 54,97 |
-| Jefe de Sección | 54,97 |
-| Oficial Administrativo | 54,97 |
+## Salario Especial / Nuevas Incorporaciones (Art. 5)
+La clasificación **Especial** aplica a nuevos trabajadores **sin experiencia previa en el sector** durante los primeros meses:
+- **12 meses** con salario Especial como norma general
+- **6 meses** si se acreditan 120+ horas de formación documentada
 
-La antigüedad se revisa y actualiza anualmente. Los importes del Anexo I corresponden al año 2024 (Art. 11).
+**Excepciones — NO aplica la categoría Especial a:**
+- Personal de limpieza y lavandería
+- Trabajadores con titulación de FP Superior
+- Trabajadores con 3+ años de formación profesional en el sector
 
----
+Las empresas que usen sistemas de propinas/porcentajes deben migrar al sistema unificado del convenio.
 
-## Grupos profesionales (Disposición Transitoria IV)
+## Clasificación Profesional (Anexo II)
 
-El convenio establece 3 grupos profesionales, en desarrollo del Art. 22 del Estatuto de los Trabajadores:
+### Primera Clasificación (Mando/Senior)
+Jefes de recepción, contables generales, jefes de cocina, jefes de sala, jefes de bar, jefes de caja, jefes de operaciones, jefes de conserjería
 
-| Grupo | Colectivo |
-|-------|-----------|
-| Grupo 0 | Técnicos y Titulados |
-| Grupo 1 | Oficiales Técnicos y Operarios |
-| Grupo 2 | Oficiales Administrativos |
+### Segunda Clasificación (Supervisión)
+Supervisores de catering, contables, segundos de caja/bar/camarero/cocina/recepción/conserjería, gobernantas, jefes de departamento, responsables de turno, supervisores de trabajo, cajeros administrativos, reposteros, supervisores de catering, bodegueros/sumilleres
 
-La dirección asigna el grupo según las funciones de cada trabajador.
+### Tercera Clasificación (Cualificados)
+Dependientes de 1ª y 2ª, barmans titulares, camareros, reposteros, recepcionistas, cocineros, planchadoras, encargadas de lencería/lavandería, cajeras de comedor, telefonistas de 1ª, cajeras de mostrador, conserjes nocturnos, gobernantas de catering, supervisoras de habitaciones, DJs, calefactores, dietistas
 
----
+### Cuarta Clasificación (Semicualificados)
+Auxiliares de dependiente, ayudantes de bar/camarero, telefonistas de 2ª, bodegueros, ayudantes de cocina, camareras de pisos, auxiliares de repostería, auxiliares de cocina-cafetería, auxiliares de supervisión de catering, gestores de almacén/despensa (cafeterías), cajeros, auxiliares de recepción, porteros de acceso, guardarropa, monitores/cuidadores de colectividades, auxiliares de colectividades
 
-## Garantía para niveles Manager (Art. 5)
+### Quinta Clasificación (Básicos)
+Mozos de equipajes, porteros de servicio, friegaplatos, costureras/lavanderas/planchadoras, limpiadoras, lavaplatos, pinches de cocina, ascensoristas, almacenistas, vigilantes nocturnos, ordenanzas de comedor, personal de cubertería, ayudantes de calefacción, ayudantes de despensa/bodega, ayudantes de cocina-cafetería, camareras de pisos (ayudante), preparadores de catering, billaristas, **Repartidores/Riders**
 
-- Para el personal de nivel Manager (excluido de las tablas de convenio), la garantía de incremento mínimo es el **montante económico** aplicado al nivel 6 (titulados medios) o al nivel 7 (titulados superiores).
-- La empresa garantiza globalmente al menos el mismo porcentaje de incremento que el aplicado a las tablas de convenio cada año.
-
----
-
-## Temas relacionados
-
-- [[aumentos-salariales]] — Porcentajes de subida IPC+% para 2024-2027
-- [[complementos-salariales]] — Pluses que se suman al salario base
-- [[absentismo]] — Pagas vinculadas a la asistencia
-
----
-
-*Fuente: Art. 5, 8, 11 y Anexo I del Convenio Colectivo PCB 2024-2027 (BOB 26/02/2025)*
+## Relación con otros artículos
+- [[aumentos-salariales]] — Revisiones 2026 y 2027, pagas extraordinarias
+- [[complementos-salariales]] — Antigüedad, plus de formación, nocturnidad
+- [[contratos-promocion]] — Promoción automática entre categorías
+- [[jornada-laboral]] — Tarifas por horas extra y nocturnas

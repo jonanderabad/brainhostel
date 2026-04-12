@@ -1,58 +1,32 @@
-# Bajas, IT y Reducción de Jornada
+# Bajas por Enfermedad e Incapacidad Temporal
 
-El convenio mejora la prestación legal de Incapacidad Temporal (IT) garantizando el 100 % del salario tanto en accidente de trabajo como en determinados supuestos de enfermedad común (hospitalización prolongada, enfermedad grave o trimestres con bajo absentismo global). Adicionalmente, permite la reducción de jornada para el cuidado de hijos hasta los 14 años mediante contrato a tiempo parcial.
+El convenio mejora notablemente las prestaciones legales de incapacidad temporal: garantiza el **100% del salario real** desde el primer día en caso de accidente laboral, enfermedad profesional u hospitalización, y el 100% en enfermedad común a partir del primer día si la baja supera los 30 días, cubriendo la empresa la diferencia respecto a la prestación de la Seguridad Social.
 
----
+## Incapacidad Temporal por Accidente Laboral o Enfermedad Profesional (Art. 27)
+- **Importe:** 100% del salario real desde el **primer día de baja**
+- La empresa abona la diferencia entre la prestación de la Seguridad Social y el 100% del salario
 
-## Complemento por accidente de trabajo (Art. 23)
+## Incapacidad Temporal por Hospitalización (Art. 27)
+- **Importe:** 100% del salario real desde el **primer día**, durante todo el proceso que requiera hospitalización
+- La empresa abona la diferencia respecto a la prestación de la SS
 
-- Durante la baja por accidente laboral: la empresa complementa hasta el **100 % de todos los conceptos retributivos** que le corresponderían al trabajador.
+## Incapacidad Temporal por Enfermedad Común (Art. 27)
+- **Duración superior a 30 días:** 100% del salario desde el **primer día** de baja
+- La empresa cubre la diferencia respecto a la prestación de la Seguridad Social (que comienza al 4º día de baja)
+- Obligatorio **revisión médica anual** del trabajador; la empresa debe notificarlo por escrito
 
-**Excepciones (no se abona el complemento):**
-- No se puede demostrar que el accidente ocurrió en el centro de trabajo.
-- No se cumplieron las normas de Salud, Seguridad e Higiene.
-- No se siguieron las instrucciones de trabajo seguro.
+**Nota:** Para bajas de corta duración (menos de 30 días) por enfermedad común, se aplica la prestación estándar de la Seguridad Social (60% a partir del 4º día, 75% desde el día 21).
 
----
+## Reducción de Jornada por Cuidado de Menores (Art. 28)
+Los trabajadores tienen derecho a reducción de jornada por cuidado de hijos hasta los **14 años** (mejora el mínimo legal que es hasta los 12 años), según la legislación vigente.
 
-## Complemento IT por enfermedad común (Art. 24)
+## Excedencias por Cuidado de Familiar
+Para cuidado de familiar enfermo (padre/madre, cónyuge/pareja o hijo/a), ver [[vacaciones-permisos]] — sección Excedencias.
 
-La empresa complementa hasta el **100 % del salario neto diario** (salario del mes anterior ÷ 30) en los siguientes casos:
+## Permisos por Enfermedad de Familiar
+El convenio otorga **5 días** de permiso retribuido por enfermedad grave, hospitalización o cirugía con reposo domiciliario de cónyuge, familiar hasta 2º grado o convivientes. Ver tabla completa en [[vacaciones-permisos]].
 
-| Supuesto | Condición |
-|----------|-----------|
-| Hospitalización | Ingreso en planta de al menos **48 horas ininterrumpidas** |
-| Enfermedad grave | Proceso de al menos **30 días naturales ininterrumpidos** |
-| Absentismo global bajo | Índice de absentismo global del trimestre anterior **< 5 %** → se complementa al 100 % del salario base para bajas por contingencia común |
-
-> Los trabajadores que actualmente tienen reconocido el complemento por absentismo global conservan esa condición en las condiciones vigentes a la firma del convenio.
-
-**El devengo de pagas extras no se ve afectado** por las situaciones anteriores.
-
----
-
-## Reducción y adaptación de jornada por cuidado de hijos (Art. 27)
-
-- Cuando un trabajador va a finalizar la reducción de jornada por guarda legal al cumplir el menor **12 años**, puede solicitar continuar con jornada reducida.
-- La empresa formaliza un **contrato a tiempo parcial** por un máximo de **2 años** (hasta los 14 años del menor).
-- El trabajador puede solicitar el retorno a jornada completa antes de los 14 años; a los 14 se restaura automáticamente.
-- Los cambios legales que amplíen el máximo de reducción por cuidado de menor **no se acumulan** al régimen pactado, sino que lo compensan.
-- También existe el derecho a solicitar **adaptaciones de jornada** conforme al Art. 34.8 del Estatuto de los Trabajadores hasta que los hijos cumplan 14 años.
-
----
-
-## ¿Qué ausencias NO cuentan como absentismo?
-
-Ver [[absentismo]] para el detalle completo de las exclusiones del plus mensual y de la paga de octubre.
-
----
-
-## Temas relacionados
-
-- [[absentismo]] — Prima trimestral, incentivo mensual y paga de octubre vinculados a presencia
-- [[vacaciones-permisos]] — Licencias retribuidas por enfermedad de familiar (Art. 25-B)
-- [[complementos-salariales]] — Salario base sobre el que se calcula el complemento
-
----
-
-*Fuente: Art. 23, 24 y 27 del Convenio Colectivo PCB 2024-2027 (BOB 26/02/2025)*
+## Relación con otros artículos
+- [[vacaciones-permisos]] — Permisos por hospitalización de familiares y excedencias
+- [[salarios-tablas]] — Salario real de referencia para el cálculo del complemento de IT
+- [[cese-finiquito]] — Efectos de la IT en el contrato y el finiquito

@@ -1,108 +1,71 @@
-# Vacaciones, Licencias Retribuidas y Licencias No Retribuidas
+# Vacaciones, Festivos, Permisos y Excedencias
 
-El convenio regula tres tipos de ausencias planificadas: las vacaciones anuales (preferentemente en verano), las licencias retribuidas por circunstancias familiares o personales concretas, y las licencias no retribuidas (máximo 15 días naturales al año para trabajadores con más de un año de antigüedad). Las licencias retribuidas se abonan con el salario base más complementos.
+El convenio garantiza 30 días naturales de vacaciones anuales preferentemente en verano, un régimen detallado de permisos retribuidos por causas familiares y personales (Art. 14), compensación especial por festivos trabajados, y el derecho a excedencias voluntarias y por cuidado de familiares.
 
----
+## Vacaciones Anuales (Art. 12)
+- **Duración:** 30 días naturales al año
+- **Periodo preferente:** junio a septiembre
+- **Subsector de alojamiento:** hasta el 50% de las vacaciones puede tomarse fuera del verano con acuerdo y documentación
+- **No son compensables en metálico** (salvo en finiquito proporcional)
+- **Calendario de vacaciones:** publicado con mínimo **2 meses de antelación**; distribución por sistema de rotación basado en el calendario del año anterior
+- **Cierre obligatorio:** si la empresa anuncia cierre con 2 meses de antelación, los trabajadores deben disfrutar sus vacaciones durante ese periodo
+- **Pago:** abonado **antes del inicio** de las vacaciones, calculado sobre la media salarial de los **3 meses previos**
+- **Trabajadores nuevos:** vacaciones proporcionales al tiempo trabajado
+- **Trabajadores que causan baja:** reciben la parte proporcional de vacaciones; las fracciones superiores a 15 días cuentan como mes completo
 
-## Vacaciones (Art. 21)
+## Festivos (Art. 13)
+Los días festivos no recuperables pueden acumularse a las vacaciones anuales o disfrutarse por separado (días continuados, en días naturales).
 
-- **Periodo preferente:** junio, julio, agosto y septiembre.
-- Pueden disfrutarse de forma **discontinua**.
-- La empresa organiza los turnos atendiendo a las necesidades de producción.
-- El trabajador debe conocer sus fechas con **al menos 2 meses de antelación** (salvo excepciones productivas).
-- Si las vacaciones coinciden con la licencia por matrimonio, ambos periodos se **suman**.
+**Compensación por festivos trabajados:**
+- **8-9 festivos trabajados** → 2 días adicionales de compensación
+- **10 o más festivos trabajados** → 4 días adicionales de compensación
 
----
+Las fechas de compensación:
+- No pueden coincidir con periodos de mayor actividad
+- El trabajador propone las fechas; la empresa acepta o acuerdan alternativa dentro del mes siguiente; si hay desacuerdo, resuelve el Comité
 
-## Licencias Retribuidas (Art. 25)
+**1 de mayo:** La mayoría de los trabajadores que lo soliciten pueden disfrutarlo en lugar del descanso semanal, según las necesidades del servicio.
 
-Se abonan con el **salario base más complementos salariales**. El cómputo se inicia desde que el trabajador cesa en el trabajo (si ya cumplió su jornada, desde el día siguiente).
+## Permisos Retribuidos (Art. 14)
 
-### A. Fallecimiento
+| Causa | Duración |
+|---|---|
+| Matrimonio o pareja de hecho | 20 días (3 días antes de la ceremonia) |
+| Bautizo/celebración (hijo/a propio) | 1 día |
+| Primera Comunión (hijo/a propio) | 1 día |
+| Boda de familiar o pareja de hecho propia | 1-6 días según distancia |
+| Fallecimiento de cónyuge/pareja, familiar hasta 2º grado (Bizkaia) | 3 días |
+| Fallecimiento de cónyuge/pareja, familiar hasta 2º grado (provincias limítrofes) | 4 días |
+| Fallecimiento de cónyuge/pareja, familiar hasta 2º grado (resto de España) | 5 días |
+| Fallecimiento de abuelos/nietos | 2-4 días según distancia |
+| Enfermedad grave/hospitalización/cirugía con reposo domiciliario (cónyuge, familiares hasta 2º grado o convivientes) | **5 días** |
+| Exámenes/oposiciones | Tiempo necesario (con justificante) |
+| Asuntos propios (necesidad oficial documentada) | 1-6 días, no acumulables anualmente |
+| Consulta médica | **8 horas al año** (con justificante) |
+| Traslado de domicilio | Tiempo necesario |
+| Deber público/votación | Tiempo necesario |
+| Trámites de adopción/acogimiento/evaluaciones psicológicas | Tiempo necesario |
 
-| Parentesco | Días laborables |
-|-----------|-----------------|
-| Cónyuge | 5 |
-| Padres, hijos, hermanos (consanguíneos) | 3 |
-| Padres/hijos/hermanos políticos, nietos, abuelos (consanguíneos o políticos) | 2 |
-| +2 días adicionales si el desplazamiento supera 200 km | |
+**Importante:** Los grados de parentesco incluyen tanto consanguinidad como afinidad. El uso fraudulento o abusivo de los permisos se clasifica como falta muy grave.
 
-- También aplica a **parejas de hecho** (acreditar convivencia ≥ 6 meses si no hay registro oficial).
+## Excedencias (Art. 28)
 
-### B. Accidente, enfermedad grave, hospitalización o reposo domiciliario
+### Excedencia Voluntaria
+- Se rige por la normativa legal vigente
+- La empresa **debe concederla** salvo causas objetivas documentadas (excedencia simultánea >5% de plantilla o puesto estratégico/difícil cobertura)
+- **Reincorporación antes de la fecha prevista:**
+  - Con excedencia de 6 meses a 2 años: preaviso de 30 días (excedencia ≥1 año) o 15 días (<1 año)
+- **Sustitución:** se permiten contratos temporales durante la excedencia
 
-- Afecta a: cónyuge, pareja de hecho, parientes hasta **2.º grado** (consanguineidad o afinidad), y persona conviviente que necesite cuidado efectivo.
-- **5 días**.
-- El disfrute puede **escalonarse entre varios familiares** mientras dure el hecho causante.
+### Excedencia por Cuidado de Familiar
+- **Obligatoria** para cuidado de familiar enfermo (padre/madre, cónyuge/pareja o hijo/a), con justificación
+- Mínimo 6 meses; se rige por la legislación vigente
+- **Obligatoria** si la excedencia simultánea es inferior al 5%
 
-### C. Urgencias hospitalarias (cónyuge, hijos, padres consanguíneos)
+### Excedencia Sindical
+Los dirigentes sindicales tienen derecho a excedencia equivalente al cargo público representativo.
 
-- Si ocurre **fuera de la jornada** y dura ≥ 4 horas: **media jornada** el día siguiente.
-- Si ocurre **durante la jornada**: tiempo necesario.
-- Acompañamiento en intervención quirúrgica < 24 horas de ingreso: tiempo que dure la intervención.
-
-### D. Matrimonio
-
-| Beneficiario | Días naturales |
-|-------------|---------------|
-| El/la propio/a trabajador/a | 16 |
-| Padres, hijos, hermanos (consanguíneos o políticos) | 1 |
-
-### E. Nacimiento de hijos
-
-- **16 semanas**, de las cuales **6 semanas son obligatorias** e inmediatas al parto.
-
-### F. Renovación de carné de identidad
-
-- Tiempo necesario si coincide con la jornada laboral.
-
-### G. Asistencia médica a especialista (Seguridad Social)
-
-- Si el horario coincide con el trabajo y hay volante del médico de cabecera: **tiempo necesario**.
-- Sin volante o para consultas propias: hasta **16 horas al año**.
-  - Estas 16 horas también sirven para acompañar a familiares de 1.er grado que no puedan valerse por sí mismos, o a hijos a pediatra.
-  - Para hijos con grado de discapacidad: **+4 horas adicionales**.
-
-### H. Traslado de domicilio habitual
-
-- **1 día natural**.
-
-### I. Deber inexcusable público y personal (incluido voto)
-
-- Tiempo indispensable.
-- Si supone > 20 % de horas laborables en 3 meses: la empresa puede pasar al trabajador a **excedencia forzosa**.
-
-### J. Funciones sindicales o representación de trabajadores
-
-- Según lo dispuesto en los Art. 28 y 29 del Convenio de la Industria Siderometalúrgica de Bizkaia.
-
-### K. Exámenes prenatales y técnicas de preparación al parto
-
-- Tiempo indispensable si coinciden con la jornada.
-
-### L. Lactancia (hijo menor de 9 meses)
-
-- **1 hora de ausencia** (puede dividirse en 2 fracciones), o reducción equivalente de jornada.
-- Puede acumularse el total: **12 días laborables** a continuación de la baja por maternidad.
-
----
-
-## Licencias No Retribuidas (Art. 26)
-
-- Requisito: **al menos 1 año de antigüedad** en la empresa.
-- Máximo: **15 días naturales**, **una sola vez al año**, sin posibilidad de fraccionarlo.
-- No puede disfrutarse hasta que no hayan transcurrido **6 meses** desde la finalización de la anterior.
-- Debe solicitarse **por escrito con 1 mes de antelación**.
-- La empresa puede **denegar** si en la misma línea/sección hay o se ha solicitado > 10 % de trabajadores en las mismas fechas.
-
----
-
-## Temas relacionados
-
-- [[jornada-laboral]] — Regulación de vacaciones y calendario laboral
-- [[bajas-ausencias]] — IT por accidente de trabajo o enfermedad común
-- [[absentismo]] — Qué ausencias computan o no a efectos del plus de asistencia
-
----
-
-*Fuente: Art. 21, 25 y 26 del Convenio Colectivo PCB 2024-2027 (BOB 26/02/2025)*
+## Relación con otros artículos
+- [[bajas-ausencias]] — Incapacidad temporal por enfermedad
+- [[cese-finiquito]] — Liquidación de vacaciones en el finiquito
+- [[jornada-laboral]] — Festivos trabajados y compensación
