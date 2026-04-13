@@ -19,8 +19,8 @@ logger = logging.getLogger(__name__)
 # ── Config ──────────────────────────────────────────────────────────────────
 
 ANTHROPIC_API_KEY = "".join(os.environ.get("ANTHROPIC_API_KEY", "").split())
-AGENT_ID = os.environ.get("AGENT_ID", "agent_011Ca1ZKPsvBCA2yGDzQkXnw")
-ENV_ID = os.environ.get("ENV_ID", "env_01YAaWs9eHTPJ5NMYDxNcPb4")
+AGENT_ID = "agent_011Ca1ZKPsvBCA2yGDzQkXnw"
+ENV_ID = "env_01YAaWs9eHTPJ5NMYDxNcPb4"
 
 if not ANTHROPIC_API_KEY:
     raise RuntimeError("ANTHROPIC_API_KEY is not set")
