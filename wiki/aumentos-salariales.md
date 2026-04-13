@@ -55,3 +55,6 @@ Las empresas con dificultades económicas acreditadas pueden solicitar **inaplic
 - [[salarios-tablas]] — Tablas base sobre las que se aplican las revisiones
 - [[complementos-salariales]] — Antigüedad (base de cálculo de las pagas extra)
 - [[ambito-convenio]] — Comisión Paritaria (órgano de resolución en inaplicaciones)
+- [[marco-legal-et]] — Art. 82.3 ET: requisitos legales para la inaplicación de convenio
+
+<!-- _source: convenioHosteleriaBizkaia2025.pdf, EstatutoTrabajadores.pdf -->

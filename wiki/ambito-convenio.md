@@ -35,7 +35,17 @@ Aplica a todos los trabajadores de los establecimientos cubiertos, **excepto** p
   - Tramitación de inaplicaciones salariales ([[aumentos-salariales]])
   - Resolución en el plazo máximo de 7 días cuando actúa como árbitro
 
+## Marco Legal: Jerarquía Normativa (ET)
+El convenio opera dentro del marco del ET (RDL 2/2015):
+
+- **Art. 3 ET:** Las normas se aplican por jerarquía; el convenio no puede establecer condiciones peores que la ley. En caso de conflicto entre normas, se aplica lo **más favorable al trabajador** en su conjunto y cómputo anual.
+- **Art. 82.3 ET:** En casos justificados (causas económicas, técnicas, organizativas o de producción), una empresa puede **inaplicar** temporalmente las condiciones del convenio sectorial previo acuerdo con los representantes de los trabajadores y comunicación a la Comisión Paritaria. Si no hay acuerdo, puede acudirse a la Comisión Consultiva Nacional o equivalente autonómico (PRECO en Euskadi).
+- **Art. 84.2 ET:** Los convenios de empresa tienen **prioridad aplicativa** sobre los sectoriales en materias como horas extra, horario y distribución del tiempo, vacaciones, clasificación profesional y conciliación.
+
 ## Relación con otros artículos
 - [[salarios-tablas]] — Tablas salariales vigentes
 - [[aumentos-salariales]] — Fórmulas de revisión e inaplicación salarial
 - [[cese-finiquito]] — Régimen disciplinario remitido al Convenio Estatal
+- [[marco-legal-et]] — Estructura general del Estatuto de los Trabajadores
+
+<!-- _source: convenioHosteleriaBizkaia2025.pdf, EstatutoTrabajadores.pdf -->

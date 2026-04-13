@@ -65,7 +65,41 @@ Las fechas de compensación:
 ### Excedencia Sindical
 Los dirigentes sindicales tienen derecho a excedencia equivalente al cargo público representativo.
 
+## Marco Legal (Estatuto de los Trabajadores)
+
+### Vacaciones: garantías del ET (Art. 38 ET)
+- Mínimo legal: **30 días naturales** (coincide con el convenio)
+- Las vacaciones **no son compensables en metálico** salvo en finiquito
+- Si las vacaciones coinciden con **IT derivada de embarazo, parto o lactancia**, o con el permiso de nacimiento (maternidad/paternidad), el trabajador tiene derecho a disfrutarlas **en otro período**, aunque haya concluido el año natural
+- Si las vacaciones coinciden con otra IT, se pueden recuperar hasta **18 meses** desde el fin del año al que corresponden
+- El trabajador debe conocer sus fechas con **2 meses de antelación** (mismo plazo que el convenio)
+
+### Permisos: tabla comparativa ET vs. Convenio
+
+| Causa | **Mínimo ET (Art. 37)** | **Convenio Bizkaia** |
+|---|---|---|
+| Matrimonio/pareja de hecho | 15 días | **20 días** |
+| Fallecimiento cónyuge/pareja/familiares hasta 2º grado | 2 días (+2 si hay desplazamiento) | **3-5 días** según distancia |
+| Accidente/enfermedad grave, hospitalización o cirugía | 5 días | **5 días** (igual) |
+| Traslado domicilio | 1 día | Tiempo necesario |
+| Deber público | Tiempo indispensable | Tiempo necesario |
+| Exámenes prenatales | Tiempo indispensable | Incluido |
+
+El convenio mejora el ET en matrimonio y fallecimiento de familiares.
+
+### Permiso parental (Art. 48 bis ET)
+Todo trabajador con hijo/a o menor acogido tiene derecho a un **permiso parental** de hasta **8 semanas** (continuas o discontinuas) hasta que el menor cumpla **8 años**. Este permiso no es retribuido salvo que el convenio o acuerdo de empresa lo mejoren. Es un derecho individual e intransferible.
+
+### Reducción de jornada para cuidado (Art. 37.6 ET)
+- Por guarda legal de menor de **12 años** o persona con discapacidad: reducción entre 1/8 y 1/2 de la jornada (con reducción proporcional de salario)
+- El convenio amplía a menores de **14 años** (mejora)
+- Por cuidado de menor con enfermedad grave hospitalizado: reducción de al menos 1/2 jornada (hasta que el menor cumpla 23 años, o 26 con discapacidad ≥65%)
+
 ## Relación con otros artículos
 - [[bajas-ausencias]] — Incapacidad temporal por enfermedad
 - [[cese-finiquito]] — Liquidación de vacaciones en el finiquito
 - [[jornada-laboral]] — Festivos trabajados y compensación
+- [[permiso-nacimiento-parentalidad]] — Permisos de maternidad, paternidad y parentalidad (19 semanas)
+- [[marco-legal-et]] — Marco general del Estatuto de los Trabajadores
+
+<!-- _source: convenioHosteleriaBizkaia2025.pdf, EstatutoTrabajadores.pdf -->

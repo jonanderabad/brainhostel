@@ -26,7 +26,42 @@ Para cuidado de familiar enfermo (padre/madre, cónyuge/pareja o hijo/a), ver [[
 ## Permisos por Enfermedad de Familiar
 El convenio otorga **5 días** de permiso retribuido por enfermedad grave, hospitalización o cirugía con reposo domiciliario de cónyuge, familiar hasta 2º grado o convivientes. Ver tabla completa en [[vacaciones-permisos]].
 
+## Marco Legal: Incapacidad Temporal y Suspensión del Contrato (ET)
+
+### Causas de suspensión del contrato (Art. 45 ET)
+El contrato queda suspendido (sin obligación de trabajar ni de remunerar, con reserva de puesto) en los siguientes supuestos relevantes:
+- Incapacidad temporal
+- Nacimiento, adopción, guarda o acogimiento (permisos de maternidad/paternidad)
+- Riesgo durante embarazo o lactancia
+- Privación de libertad sin sentencia condenatoria
+- Suspensión de empleo y sueldo por sanción disciplinaria
+- Causas económicas/técnicas/organizativas (ERTE)
+- Excedencia forzosa
+- Huelga
+- Violencia de género
+
+### IT: Prestación legal base (sin mejora del convenio)
+La prestación pública de la Seguridad Social por enfermedad común es:
+- Días 1-3: **sin prestación** (a cargo del trabajador)
+- Días 4-20: **60%** de la base reguladora (a cargo de la SS a partir del 4º día, o del empresario si así lo dispone el convenio)
+- Desde el día 21: **75%** de la base reguladora
+- Desde el día 366: 75% (puede llegar al 100% con mejoras convencionales o del INSS)
+
+El convenio de hostelería de Bizkaia **mejora sustancialmente** estos mínimos (ver secciones anteriores).
+
+### Excedencias por cuidado (Art. 46 ET)
+- **Por cuidado de hijo:** hasta **3 años** desde el nacimiento o adopción. Reserva de puesto el **primer año**; después, reserva de puesto equivalente. Computa como antigüedad.
+- **Por cuidado de familiar** (hasta 2º grado que no pueda valerse por sí mismo): hasta **2 años** (salvo ampliación por convenio). Mismos derechos de reserva.
+- **Excedencia voluntaria general:** con al menos 1 año de antigüedad, entre 4 meses y 5 años; solo ejercitable de nuevo cada 4 años.
+
+### Permisos de nacimiento/parentalidad (Art. 48 ET)
+Ver [[permiso-nacimiento-parentalidad]] para la regulación completa de los permisos de 19 semanas por nacimiento, adopción y acogimiento.
+
 ## Relación con otros artículos
 - [[vacaciones-permisos]] — Permisos por hospitalización de familiares y excedencias
 - [[salarios-tablas]] — Salario real de referencia para el cálculo del complemento de IT
 - [[cese-finiquito]] — Efectos de la IT en el contrato y el finiquito
+- [[permiso-nacimiento-parentalidad]] — Permisos de maternidad, paternidad y parentalidad
+- [[marco-legal-et]] — Marco general del Estatuto de los Trabajadores
+
+<!-- _source: convenioHosteleriaBizkaia2025.pdf, EstatutoTrabajadores.pdf -->

@@ -84,7 +84,15 @@ Personal de operaciones con **mínimo 3 meses de antigüedad** en el centro, con
 
 **Documentación requerida:** 3 días antes de la subrogación, el anterior contratista entrega la misma documentación que en el Anexo III.
 
+## Referencia Legal: Sucesión de Empresa (Art. 44 ET)
+La subrogación del convenio opera junto con el Art. 44 ET, que regula la **sucesión de empresa**: cuando cambia el titular de una empresa, centro de trabajo o unidad productiva autónoma, el nuevo empresario se subroga en los derechos y obligaciones laborales del anterior, incluidos los compromisos de pensiones. El cedente y cesionario responden solidariamente durante **3 años** de las obligaciones laborales anteriores a la transmisión.
+
+El Anexo III (restauración colectiva) y Anexo IV (alojamiento) del convenio regulan la subrogación convencional en cambios de **contratista** (no cambio de titularidad total), ampliando la protección del Art. 44 ET.
+
 ## Relación con otros artículos
 - [[cese-finiquito]] — Finiquito en el cambio de empresa; baja voluntaria
 - [[complementos-salariales]] — Ropa de trabajo y dotaciones obligatorias
 - [[ambito-convenio]] — Comisión Paritaria como órgano de resolución
+- [[marco-legal-et]] — Art. 44 ET: sucesión de empresa
+
+<!-- _source: convenioHosteleriaBizkaia2025.pdf, EstatutoTrabajadores.pdf -->

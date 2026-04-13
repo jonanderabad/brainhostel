@@ -58,8 +58,16 @@ Auxiliares de dependiente, ayudantes de bar/camarero, telefonistas de 2ª, bodeg
 ### Quinta Clasificación (Básicos)
 Mozos de equipajes, porteros de servicio, friegaplatos, costureras/lavanderas/planchadoras, limpiadoras, lavaplatos, pinches de cocina, ascensoristas, almacenistas, vigilantes nocturnos, ordenanzas de comedor, personal de cubertería, ayudantes de calefacción, ayudantes de despensa/bodega, ayudantes de cocina-cafetería, camareras de pisos (ayudante), preparadores de catering, billaristas, **Repartidores/Riders**
 
+## Referencia Legal: Salario Mínimo Interprofesional (Art. 27 ET)
+El SMI lo fija anualmente el Gobierno por Real Decreto. Los salarios del convenio de hostelería de Bizkaia **superan ampliamente** el SMI en todas las clasificaciones (la Especial —la más baja— alcanza 1.158€/mes frente al SMI vigente). El SMI es **inembargable** (Art. 27.2 ET).
+
+El salario en especie no puede superar el **30%** de las percepciones salariales totales del trabajador (Art. 26.1 ET).
+
 ## Relación con otros artículos
 - [[aumentos-salariales]] — Revisiones 2026 y 2027, pagas extraordinarias
 - [[complementos-salariales]] — Antigüedad, plus de formación, nocturnidad
 - [[contratos-promocion]] — Promoción automática entre categorías
 - [[jornada-laboral]] — Tarifas por horas extra y nocturnas
+- [[marco-legal-et]] — Marco general del Estatuto de los Trabajadores
+
+<!-- _source: convenioHosteleriaBizkaia2025.pdf, EstatutoTrabajadores.pdf -->

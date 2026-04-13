@@ -74,3 +74,6 @@ La empresa tiene la obligación de proporcionar uniformes y ropa no habitual que
 - [[salarios-tablas]] — Base salarial sobre la que se calcula la antigüedad
 - [[aumentos-salariales]] — Actualización anual de complementos
 - [[jornada-laboral]] — Horas nocturnas y cómputo del suplemento
+- [[marco-legal-et]] — Marco general del Estatuto de los Trabajadores
+
+<!-- _source: convenioHosteleriaBizkaia2025.pdf, EstatutoTrabajadores.pdf -->
